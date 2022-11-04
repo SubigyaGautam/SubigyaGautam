@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning with python
 - 💞️ I’m looking to collaborate on any machine learning and AI projects
 - 📫 gautamsubigya@gmail.com 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subigyagautam" height="16" width="20" style="max-width: 100%;"></a><a href="https://linkedin.com/in/subigyagautam" rel="nofollow">/subigyagautam</a>
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subigyagautam" height="16" width="20" style="max-width: 100%;"></a> <a href="https://linkedin.com/in/subigyagautam" rel="nofollow">/subigyagautam</a>
 
 
 <!---
