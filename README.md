@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Subigya Gautam!
+## 👋 Hello there, I'm Subigya!
 
  🔥🔥 **Passionate about:** 🔥 🔥
 - **Machine Learning** | **Artificial Intelligence** | **Software Engineering** | **Salesforce**
@@ -20,7 +20,7 @@
 📰 **MOM, I was in the news!**
 - [UL students & Lafayette tech startups partner to foster innovation](https://www.theadvocate.com/acadiana/news/business/ul-students-lafayette-tech-startups-partner-in-program-intended-to-foster-innovation/article_3e3e95b6-5bdb-11ef-a898-63543e8728f6.html)
 - [LinkedIn Feature](https://www.linkedin.com/feed/update/urn:li:activity:7230281800420356096/)
-- [HCI-LAB](https://research.cmix.louisiana.edu/hcilab/index.html)
+- [HCI-LAB](https://people.cmix.louisiana.edu/hcilab/people)
 
 ✨ Let's connect and build something amazing together!
 
